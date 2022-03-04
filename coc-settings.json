@@ -1,0 +1,7 @@
+{
+    "languageserver" : {
+        "just-complete" : {
+            "filetypes" : ["m"]
+        }
+    }
+}
